@@ -365,7 +365,7 @@ These results highlight how machine learning can significantly improve loan defa
 
 ---
 
-## 🔧 Project Files
+## Project Files
 
 - [CreditRisk_Preprocessed Notebook](notebooks/CreditRisk_Preprocessed.ipynb) – Data cleaning, preprocessing, and exploratory analysis.  
 - [CreditRiskML Notebook](notebooks/CreditRiskML.ipynb) – Machine Learning model building, evaluation, and predictions.  
