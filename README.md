@@ -266,7 +266,7 @@ Using a **0.30 probability threshold**, model performance improved significantly
 
 Default detection recall improved from:
 
-**51% ? 81%**
+**51% to 81%**
 
 This means the model now identifies most risky borrowers.
 
