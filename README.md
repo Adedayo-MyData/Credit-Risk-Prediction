@@ -367,11 +367,16 @@ These results highlight how machine learning can significantly improve loan defa
 
 ## Project Files
 
-- [CreditRisk_Preprocessed Notebook](notebooks/CreditRisk_Preprocessed.ipynb) – Data cleaning, preprocessing, and exploratory analysis.  
-- [CreditRiskML Notebook](notebooks/CreditRiskML.ipynb) – Machine Learning model building, evaluation, and predictions.  
-- [Raw Dataset](data/credit_risk_raw.csv) – Original dataset used for analysis.  
-- [Preprocessed Dataset](data/data_preprocessed.csv) – Cleaned dataset ready for ML models.  
-- [ROC Curve](images/ROC%20Curve.png) – Model evaluation visualization.
+[Data Preprocessing Notebook](CreditRisk_Preprocessed.ipynb)
+
+[ML Notebook](CreditRiskML.ipynb)
+
+[Raw Data](credit_risk_raw.csv)
+
+[Processed Data](data_preprocessed.csv)
+
+[Image](ROC%20Curve.png) – ROC Curve
+
 
 ## Future Improvements
 
