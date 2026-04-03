@@ -238,4 +238,4 @@ The results show that combining feature engineering, Random Forest, and threshol
 ## Author
 
 **Adedayo Adebayo**
-Data Scientist | Business Analyst
+Data Analyst | ML Practitioner
