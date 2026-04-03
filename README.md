@@ -223,6 +223,8 @@ The results show that combining feature engineering, Random Forest, and threshol
 
 [Image](ROC%20Curve.png) – ROC Curve
 
+[Image](feature_importance) - Feature Importance
+
 ## Future Improvements
 
 * Hyperparameter tuning (GridSearchCV / RandomizedSearchCV)
